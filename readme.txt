@@ -3,5 +3,4 @@ GIT is freeware
 GIT has a mutable index called stage.
 track changes 1 
 createing a new branch is quick
-Creating a new branch is quick & simple.
-
+Createing a new branck is simple
