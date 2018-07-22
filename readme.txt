@@ -5,3 +5,4 @@ track changes 1
 createing a new branch is quick
 dev branch messages
 dev branch dev new
+bug fix
